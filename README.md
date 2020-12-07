@@ -7,6 +7,12 @@ Prob mutation of state
 
 ## Idea
 
+## How to build a mutational graph
+Dense fully connected
+```python
+
+```
+
 ## Citation
 
 ## Contribute
