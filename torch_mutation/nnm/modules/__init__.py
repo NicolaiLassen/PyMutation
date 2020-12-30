@@ -1,7 +1,5 @@
-from .linear_mutation import LinearMutation
-from .module_mutation import ModuleMutation
+from .mutator import Plasticity
 
 __all__ = [
-    'ModuleMutation',
-    'LinearMutation',
+    'Plasticity',
 ]
